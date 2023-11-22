@@ -1,4 +1,3 @@
-![logo](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Kuwar Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
