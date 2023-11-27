@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms, Nodesjs**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-dap.pages.dev/](https://portfolio-dap.pages.dev/)
-- 👨‍💻 Portfolio at [https://github.com/Kuwar20](https://github.com/Kuwar20)
+- 👨‍💻 Portfolio at [https://resum.pages.dev/](https://resum.pages.dev/)
 
 - 📫 How to reach me **kuwarx1@gmail.com**
 
