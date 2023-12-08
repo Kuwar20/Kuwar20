@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Kuwar Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
@@ -40,8 +41,10 @@
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuwar20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuwar20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="170" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=Kuwar20&rank_icon=github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuwar20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="170" alt="languages graph"  /> 
   <img src="https://streak-stats.demolab.com?user=Kuwar20&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&order=3" height="161" alt="streak graph"  />
 </div>
+
+
 
