@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kuwar Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+<img align="right" alt="coding" width="470"  height="320" src="https://github.com/Kuwar20/Kuwar20/blob/main/code.gif">
 
 
 
