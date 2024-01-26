@@ -11,7 +11,12 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Nodesjs**
 
-- 👨‍💻 Portfolio [https://ksportfolio-kuwars-projects.vercel.app/](https://ksportfolio-kuwars-projects.vercel.app/)
+- 👨‍💻 Hit in your console or terminal to connect with me.
+
+```bash
+npx kuwar
+```
+**👆 This command line tool can be found at  [npx kuwar](https://www.npmjs.com/package/kuwar)**
 
 - 📫 How to reach me:
 
