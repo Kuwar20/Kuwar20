@@ -12,11 +12,15 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms, Nodesjs**
 
 - 👨‍💻 Hit in your console or terminal to connect with me.
-
+<!---
 ```bash
 npx kuwar
 ```
+
 **👆 This command line tool can be found at  [npx kuwar](https://www.npmjs.com/package/kuwar)**
+--->
+- My Resume: [Resume](https://kuwar-resume.vercel.app/)
+
 
 - 📫 How to reach me:
 
