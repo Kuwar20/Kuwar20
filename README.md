@@ -18,6 +18,7 @@ npx kuwar
 **👆 This command line tool can be found at  [npx kuwar](https://www.npmjs.com/package/kuwar)**
 
 <br/>
+
 - 🌱 I’m currently learning **Data Structures and Algorithms, Nodesjs**
 
 - My Resume: [Resume](https://kuwar-resume.vercel.app/)
