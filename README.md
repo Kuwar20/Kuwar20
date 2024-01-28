@@ -9,15 +9,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuwar20&label=Profile%20views&color=0e75b6&style=flat" alt="kuwar20" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Nodesjs**
-
-- 👨‍💻 Hit in your console or terminal to connect with me.
+### **👨‍💻 Hit in your console or terminal to connect with me.**
 
 ```bash
 npx kuwar
 ```
 
 **👆 This command line tool can be found at  [npx kuwar](https://www.npmjs.com/package/kuwar)**
+
+<br/>
+- 🌱 I’m currently learning **Data Structures and Algorithms, Nodesjs**
 
 - My Resume: [Resume](https://kuwar-resume.vercel.app/)
 
