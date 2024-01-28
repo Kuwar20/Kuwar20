@@ -1,4 +1,4 @@
-![MasterHead](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20Stranger%20&text2=💖%20Welcome%20&width=800&height=400)
+![MasterHead](https://github.com/Kuwar20/Kuwar20/blob/main/2.gif)
 
 
 <h1 align="center">Hi 👋, I'm Kuwar Singh</h1>
