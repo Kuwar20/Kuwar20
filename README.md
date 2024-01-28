@@ -23,10 +23,16 @@ npx kuwar
 
 - My Resume: [Resume](https://kuwar-resume.vercel.app/)
 
+<br/>
 
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to chat with me about anything you are passionate about - make sure to describe the agenda
+
+<a href="https://calendly.com/kuwarx1/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<br/>
 - 📫 How to reach me:
 
-<br/>
 <div align="left">
   <a href="https://www.linkedin.com/in/kuwar-singh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
