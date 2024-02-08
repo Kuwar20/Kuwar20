@@ -91,8 +91,8 @@ Pick a slot if you'd like to chat with me about anything you are passionate abou
 
 
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=Kuwar20&rank_icon=github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuwar20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="170" alt="languages graph"  /> 
+   <img src="https://github-stats-pink.vercel.app/api?username=Kuwar20&rank_icon=github&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  /> 
+  <img src="https://github-stats-pink.vercel.app/api/top-langs?username=Kuwar20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="170" alt="languages graph"  /> 
   <img src="https://github-readme-streak-stats-theta-livid.vercel.app?user=Kuwar20" height="161" alt="streak graph"  />
 </div>
 
