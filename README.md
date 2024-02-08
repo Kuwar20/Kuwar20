@@ -21,17 +21,17 @@ npx kuwar
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Nodesjs**
 
-- My Resume: [Resume](https://kuwar-resume.vercel.app/)
+- Resume (Online): [Resume](https://kuwar-resume.vercel.app/)
 
 <details>
-<summary><h3>📄 View My Resume</h3></summary>
+<summary><h3>📄 Resume - Click to view </h3></summary>
 
   <div align="center">
   <h1><strong>KUWAR SINGH</strong></h1>
 </div>
 
 <div align="center">
-  <a href="linkedin.com/in/kuwar-singh">LinkedIn</a> | <a href="https://www.npmjs.com/package/kuwar">npx kuwar</a> | <a href="mailto:kuwarx1@gmail.com">kuwarx1@gmail.com</a>
+  <a href="https://www.linkedin.com/in/kuwar-singh/">LinkedIn</a> | <a href="https://www.npmjs.com/package/kuwar">npx kuwar</a> | <a href="mailto:kuwarx1@gmail.com">kuwarx1@gmail.com</a>
   <br>
   Phone: +91 **********
 </div>
