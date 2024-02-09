@@ -36,6 +36,12 @@ npx kuwar
   Phone: +91 **********
 </div>
 
+---
+
+
+**SUMMARY**
+
+- Engineering graduate eager to leverage full-stack web and cross platform mobile development skills for entry-level software development. Hands-on engineer with open-source contributions, also building responsive web and mobile applications.
 
 ---
 
