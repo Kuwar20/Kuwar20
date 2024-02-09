@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kuwar Singh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 <img align="right" alt="coding" width="470"  height="320" src="https://github.com/Kuwar20/Kuwar20/blob/main/code.gif">
 
 
@@ -24,7 +24,7 @@ npx kuwar
 - Resume (Online): [Resume](https://kuwar-resume.vercel.app/)
 
 <details>
-<summary><h3>📄 Resume - Click to view </h3></summary>
+<summary><h2>📄 Resume - Click to view </h2></summary>
 
   <div align="center">
   <h1><strong>KUWAR SINGH</strong></h1>
@@ -70,7 +70,7 @@ npx kuwar
 **EDUCATION**  
 
 **Chandigarh University**  
-- Bachelor of Engineering in Electronics and Communication,
+- Bachelor of Engineering in Electronics and Communication 
 
 ---
 
