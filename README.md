@@ -48,10 +48,14 @@ npx kuwar
 **PROJECTS EXPERIENCE**  
 
 **Easy Booking ®**  <kbd> <br> MERN, TypeScript, Tailwind CSS, Stripe<br> </kbd>   &nbsp;[Repo](https://github.com/Kuwar20/Easy-Booking)
-- Launched a secure hotel booking platform with Stripe integration, garnering 10 active users within the first week.  
-- Improved user engagement by 20% and satisfaction by 15% through optimization of search, sort, and save features, alongside the addition of contextual help and enhanced accessibility.  
-- Enhanced user registration by 20% with streamlined login credentials while reducing unauthorized access attempts by 25% through strategic validation processes.  
-- Decreased errors by 50% in end-to-end testing and managed hotel photos on Cloudinary within the 5 MB limit per user, resulting in reduced memory consumption.  
+- Integrated Stripe for secure payment processing using PaymentIntents API, improving real-time updates, while
+utilizing Cloudinary for image storage to reduce storage costs by 20% through image resizing and compression.
+- Enhanced user authentication with Google OAuth for secure sign-ins, which boosted user engagement time by 20%
+and satisfaction by 15% Additionally, optimized search, sort, along with adding contextual help for hotel searches. 
+- Boosted system performance by 30% through load balancing with Node.js cluster module, distributing traffic across
+CPU cores, and implemented real-time logging with Morgan and Winston to monitor and troubleshoot issues.  
+- Secured user authentication with JWT and improved deployment using Docker for containerization and Docker
+Compose for multi-container orchestration, while reducing errors by 50% through E2E testing with Playwright. 
 
 **Recipe By You ®**  <kbd> <br> React Native, React.js, Node.js, Express<br> </kbd>  &nbsp;[Repo](https://github.com/Kuwar20/recipe-by-you-frontend-Web)
 - Engineered a cross-platform <a href="https://github.com/Kuwar20/recipe-by-you-Mobile">recipe app with React Native</a>, offering an intuitive interface for recipe exploration leveraging TheMealDB API.
@@ -76,10 +80,10 @@ npx kuwar
 
 **TECHNICAL SKILLS**  
 
-**Languages:** C++, Java, JavaScript, TypeScript  
-**Web Development:** React.js, Node.js, Express.js, Bootstrap 5, HTML, CSS, MongoDB  
-**Additional:** Data Structures and Algorithms  
-**Tools:** Git, VS Code, MongoDB Compass/Atlas, Visual Studio, Android Studio  
+**Languages:** C++, JavaScript, TypeScript  
+**Web Development:** React.js, Redux, Node.js, Express.js, Bootstrap 5, REST API, MongoDB, PHP, MySQL  
+**Additional:** Data Structures and Algorithms, Docker, Linux, Redis  
+**Tools:** Git, VS Code, MongoDB Compass/Atlas, Android Studio, Postman, Ngrok  
 **Coding Platforms:** Hacker Rank - hackerrank.com/profile/kuwarx1, Leetcode - leetcode.com/kuwarx2  
 
 ---
